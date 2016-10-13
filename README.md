@@ -1,2 +1,4 @@
-# My_app1
-C#桌面应用软件
+# 项目说明
+编程语言：C#
+开发平台：Microsoft Visual Studio 2015  .NET开发平台Windows Form
+数据库：access 2007
