@@ -88,7 +88,7 @@ namespace My_app1
             }
             catch (Exception ex)     //捕获异常
             {
-                //MessageBox.Show(ex.Message);    //弹出消息对话框
+                MessageBox.Show(ex.Message);    //弹出消息对话框
             }
         }
     }
